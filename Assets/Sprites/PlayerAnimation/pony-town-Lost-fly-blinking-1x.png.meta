@@ -1,0 +1,1874 @@
+fileFormatVersion: 2
+guid: fc0867311252c1d4593c9c563849bc00
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 52
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3a75298d95024f9f63665532dbcb7
+      internalID: -1088449396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90a72a1c7488c6f4880f9158a6dec22f
+      internalID: 1064255984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fd46366f245b343a607cd023ebe26a
+      internalID: -469040615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c7b67f8a2546e429da7b4486bbf2a9
+      internalID: 91645772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aefc29c0abfcee40b26dd2911614fa8
+      internalID: 1991030940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b784e3d176c8543beb4571a67594fc
+      internalID: 1239450244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc103feaaf3c544f8fd15470cab04c4
+      internalID: -2078362729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eb246d802eb024da6919db4bc73595
+      internalID: -1050288853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7aa1a2117446d04cb0a1b7de1c6fe3b
+      internalID: -1217642571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa968df393aeeaa4492de32e355c3763
+      internalID: -1023752931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d7afba731e3054399f13f3ff326a25
+      internalID: -371041339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624fcf8c7a9710841835b972b687e287
+      internalID: -1309609393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4c5598774cb894a969342a844e8587
+      internalID: -220183132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50ff3d004ff1384e9c55d04538bae6c
+      internalID: 619994442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eea58aa358a2b43a94a21d0bd62954
+      internalID: 1754786855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182e3b7559f19064187c5d497e1fff9d
+      internalID: -2055033214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff6c1adbc9e8d341aec04bf953b0507
+      internalID: 987075813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c1388a45212c144b73553523551a99
+      internalID: 549435008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_18
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acb92376b522a2d458bb766e4f50826e
+      internalID: -1335840844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564a3136b9faa5e41a75d7d94c4bfc39
+      internalID: -530904205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b5e527089d06d43b756558d3e79561
+      internalID: -552515421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_21
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575414237259ab540a0030342a64507f
+      internalID: -1485724860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e35400b29a947c428cfbe1044d0fbfe
+      internalID: -1639845780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976ca9bac393ad543aa068c38cc03179
+      internalID: -880278682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d77a98f4833f45976aa60287289f3
+      internalID: 237163976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d2c13b8d8e6b547859b4d88bde3cac
+      internalID: 775747455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_26
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc597ea3f0c0bc48902d44b7a18c331
+      internalID: 806168917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_27
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cda9f0395fb844dbc6b2e45f3a9813
+      internalID: 892212207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_28
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b291aac5fcea84992157ff90764aa7
+      internalID: 148659631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_29
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b965e423eaed304683c22347a095e7d
+      internalID: -985800933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_30
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad87c2b908d6a9c43acd7ddbae4cc3c3
+      internalID: -675127201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_31
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eea4aa6662855a744b59b6be5d65ed00
+      internalID: -558383839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1866c810e018f5f45b3009251a993738
+      internalID: -1753371061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_33
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18382e8c335e4654180daa4e8d2e2a2a
+      internalID: -1622249949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_34
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7174c3df56d7c01409c95c8d8ddadbb8
+      internalID: -974750858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_35
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6372efa6b1511714bb6418af3a3507b2
+      internalID: -14561231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_36
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4ee184b2d012e44b95761ec576ba10
+      internalID: 1003835594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_37
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8938ba995d09e34ab782f420daf482e
+      internalID: -1545101007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_38
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51a8644d743094f4a93cfa997e6d86f7
+      internalID: 1965342355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_39
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43d1ff34cea0ff47842c5115ab9c983
+      internalID: -499589933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_40
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575fb66b15f4f2741948cb6a09272449
+      internalID: 607262573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_41
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2fcf361e062c64184e1a525fac3809
+      internalID: -328358429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_42
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f98e7880fcb2f4cadd462a53c13601
+      internalID: 43547538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_43
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e33a91a86c542e248aa2bef62f964a18
+      internalID: -1110163238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_44
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1034d39a5e10844468a0c723b996aa0b
+      internalID: 1362846445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_45
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d7a118d9dbbac44599ad80a817c90aa
+      internalID: -2081987646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_46
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9295ba8b7677b642a049ab431b63154
+      internalID: 1108020299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_47
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb038dbf60b8c064aae0a53af5efb866
+      internalID: 2003596544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_48
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba2b30179dc09243a9fb612525551da
+      internalID: 1260885834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_49
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86713ff2d948aed4a8c96c4dc84e41af
+      internalID: -209154797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_50
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90179c8a48768842890e1aaf13d014b
+      internalID: 1744425230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_51
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49093b1b52dc03c47aeaea0c600237f8
+      internalID: 1754849924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_52
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8e18712337b22d4d96ec6416a353311
+      internalID: 1786576421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_53
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcb0929b507c314fbb965436cf7673b
+      internalID: -1905126538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_54
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe7255699c238c4b937f4b772b683e9
+      internalID: -749995719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_55
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 445a2f72aba432e4c8a048c2cd3d5029
+      internalID: 947414894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_56
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c012e966993644eb629b8b6a5c6026
+      internalID: 81880113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_57
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a32c9cffd1cdb94e865b35a7b7639ef
+      internalID: -1049057499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_58
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5058c7c75a16774cbaa30a31220db80
+      internalID: -1987469879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_59
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff678557c4321144b5b1c88ec444476
+      internalID: -806311625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_60
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88cba7c2eebfde54f95c128e53fb9b17
+      internalID: 44341288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_61
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2bf42c05ffc45e48bb365ed160a035f
+      internalID: 1942611602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_62
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1394a7c29dff4c4d9907733730a7d32
+      internalID: 381038472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_63
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521ccea8a7f045a42b4d7e5420eeeab3
+      internalID: -60717813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_64
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf48c08f33c60b64c8b24d6a71e9e101
+      internalID: 790486727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_65
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8977221b87fc1d046a02f38e9723963c
+      internalID: -1316895145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_66
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e31f96d02f33b24790af6a8d395d385
+      internalID: 548772033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_67
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9684144d444711468a06a67b2d8eef2
+      internalID: -215197254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_68
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ec5fd2abf09094d958efb492fef78a
+      internalID: 533217186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_69
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d29f1acb7c8856439170b64f2805a62
+      internalID: 2126402130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_70
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e399c2bda8c0574a963e72d23b30244
+      internalID: 1215794464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_71
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d96c8125a5c090148a08a3cb1ab72193
+      internalID: -653509118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_72
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f08c8c804b98f4449885e451d1676ac
+      internalID: -1158895409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_73
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0026acfcb2e23db429faa292ee2d0af4
+      internalID: 676569463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_74
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ff88343b895ae40915ecf971d3d391
+      internalID: -1349434580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_75
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f67d6e16d9d2848b0b219f172f5120
+      internalID: 355835738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_76
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dbeb84af50f304a839d10b6ae39020
+      internalID: 1906717277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_77
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4811af556c5ae3408efdff8c3bc22ba
+      internalID: -1951059862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_78
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c8c33472ff2504a9b093a0595d83f4
+      internalID: 1852741591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-fly-blinking-1x_79
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9c8db46a1a31a4abc028d68d38a470
+      internalID: 2014988509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pony-town-Lost-fly-blinking-1x_0: -1088449396
+      pony-town-Lost-fly-blinking-1x_1: 1064255984
+      pony-town-Lost-fly-blinking-1x_10: -371041339
+      pony-town-Lost-fly-blinking-1x_11: -1309609393
+      pony-town-Lost-fly-blinking-1x_12: -220183132
+      pony-town-Lost-fly-blinking-1x_13: 619994442
+      pony-town-Lost-fly-blinking-1x_14: 1754786855
+      pony-town-Lost-fly-blinking-1x_15: -2055033214
+      pony-town-Lost-fly-blinking-1x_16: 987075813
+      pony-town-Lost-fly-blinking-1x_17: 549435008
+      pony-town-Lost-fly-blinking-1x_18: -1335840844
+      pony-town-Lost-fly-blinking-1x_19: -530904205
+      pony-town-Lost-fly-blinking-1x_2: -469040615
+      pony-town-Lost-fly-blinking-1x_20: -552515421
+      pony-town-Lost-fly-blinking-1x_21: -1485724860
+      pony-town-Lost-fly-blinking-1x_22: -1639845780
+      pony-town-Lost-fly-blinking-1x_23: -880278682
+      pony-town-Lost-fly-blinking-1x_24: 237163976
+      pony-town-Lost-fly-blinking-1x_25: 775747455
+      pony-town-Lost-fly-blinking-1x_26: 806168917
+      pony-town-Lost-fly-blinking-1x_27: 892212207
+      pony-town-Lost-fly-blinking-1x_28: 148659631
+      pony-town-Lost-fly-blinking-1x_29: -985800933
+      pony-town-Lost-fly-blinking-1x_3: 91645772
+      pony-town-Lost-fly-blinking-1x_30: -675127201
+      pony-town-Lost-fly-blinking-1x_31: -558383839
+      pony-town-Lost-fly-blinking-1x_32: -1753371061
+      pony-town-Lost-fly-blinking-1x_33: -1622249949
+      pony-town-Lost-fly-blinking-1x_34: -974750858
+      pony-town-Lost-fly-blinking-1x_35: -14561231
+      pony-town-Lost-fly-blinking-1x_36: 1003835594
+      pony-town-Lost-fly-blinking-1x_37: -1545101007
+      pony-town-Lost-fly-blinking-1x_38: 1965342355
+      pony-town-Lost-fly-blinking-1x_39: -499589933
+      pony-town-Lost-fly-blinking-1x_4: 1991030940
+      pony-town-Lost-fly-blinking-1x_40: 607262573
+      pony-town-Lost-fly-blinking-1x_41: -328358429
+      pony-town-Lost-fly-blinking-1x_42: 43547538
+      pony-town-Lost-fly-blinking-1x_43: -1110163238
+      pony-town-Lost-fly-blinking-1x_44: 1362846445
+      pony-town-Lost-fly-blinking-1x_45: -2081987646
+      pony-town-Lost-fly-blinking-1x_46: 1108020299
+      pony-town-Lost-fly-blinking-1x_47: 2003596544
+      pony-town-Lost-fly-blinking-1x_48: 1260885834
+      pony-town-Lost-fly-blinking-1x_49: -209154797
+      pony-town-Lost-fly-blinking-1x_5: 1239450244
+      pony-town-Lost-fly-blinking-1x_50: 1744425230
+      pony-town-Lost-fly-blinking-1x_51: 1754849924
+      pony-town-Lost-fly-blinking-1x_52: 1786576421
+      pony-town-Lost-fly-blinking-1x_53: -1905126538
+      pony-town-Lost-fly-blinking-1x_54: -749995719
+      pony-town-Lost-fly-blinking-1x_55: 947414894
+      pony-town-Lost-fly-blinking-1x_56: 81880113
+      pony-town-Lost-fly-blinking-1x_57: -1049057499
+      pony-town-Lost-fly-blinking-1x_58: -1987469879
+      pony-town-Lost-fly-blinking-1x_59: -806311625
+      pony-town-Lost-fly-blinking-1x_6: -2078362729
+      pony-town-Lost-fly-blinking-1x_60: 44341288
+      pony-town-Lost-fly-blinking-1x_61: 1942611602
+      pony-town-Lost-fly-blinking-1x_62: 381038472
+      pony-town-Lost-fly-blinking-1x_63: -60717813
+      pony-town-Lost-fly-blinking-1x_64: 790486727
+      pony-town-Lost-fly-blinking-1x_65: -1316895145
+      pony-town-Lost-fly-blinking-1x_66: 548772033
+      pony-town-Lost-fly-blinking-1x_67: -215197254
+      pony-town-Lost-fly-blinking-1x_68: 533217186
+      pony-town-Lost-fly-blinking-1x_69: 2126402130
+      pony-town-Lost-fly-blinking-1x_7: -1050288853
+      pony-town-Lost-fly-blinking-1x_70: 1215794464
+      pony-town-Lost-fly-blinking-1x_71: -653509118
+      pony-town-Lost-fly-blinking-1x_72: -1158895409
+      pony-town-Lost-fly-blinking-1x_73: 676569463
+      pony-town-Lost-fly-blinking-1x_74: -1349434580
+      pony-town-Lost-fly-blinking-1x_75: 355835738
+      pony-town-Lost-fly-blinking-1x_76: 1906717277
+      pony-town-Lost-fly-blinking-1x_77: -1951059862
+      pony-town-Lost-fly-blinking-1x_78: 1852741591
+      pony-town-Lost-fly-blinking-1x_79: 2014988509
+      pony-town-Lost-fly-blinking-1x_8: -1217642571
+      pony-town-Lost-fly-blinking-1x_9: -1023752931
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

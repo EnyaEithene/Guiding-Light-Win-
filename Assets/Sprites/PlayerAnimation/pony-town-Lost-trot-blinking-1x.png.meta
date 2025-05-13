@@ -1,0 +1,2930 @@
+fileFormatVersion: 2
+guid: dc88f81beaeade241869c768b5f8f5b5
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 52
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b100cffa83494080265c812409b82
+      internalID: 1141855892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c916d549e29033d439a9af284c87c27d
+      internalID: 643850993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24a4ce5a2e6b1a479eb2997c614de15
+      internalID: 2064832499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_3
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c786847701eb414cbe90ee3dd26f860
+      internalID: 1502586930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_4
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1601cda42dbf82b46b5df9c418f14c6d
+      internalID: -1955942976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4587c980b8f919542b18b2590a163071
+      internalID: 163338461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a666508e53e7374c94e9b4b6f642d2d
+      internalID: 650674369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_7
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f7fcd93ae2b3c4787b41b4276587b9
+      internalID: 1083249293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_8
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6987e680d9e1745961e434031edbdd
+      internalID: 1957384640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_9
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632e0383f3d19d846b6b2fe9bd4f70fe
+      internalID: 987349796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242ac958c03a1c24bbf74b584fc704c5
+      internalID: -455252267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_11
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6bb6607bd770646a710a8a5238f0b1
+      internalID: -1973850097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_12
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d9d1cb0b21ee1429e4ca685633fbfc
+      internalID: 1708784561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16a2f6af6c01ad46a9500e592ba9c8a
+      internalID: -2065467740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_14
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82d280db37155ce45949cfcf21d1a3b0
+      internalID: -1586351056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_15
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1405a8e71276bb94787c5467236f827f
+      internalID: -513674355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_16
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635d10fa7a154a940b76b374bcb52a0a
+      internalID: 1356086970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7310464a971ca4d9410dbfb22e960b
+      internalID: -1276444294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_18
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2cdcb381404d645bbfcb8b9a8bb479
+      internalID: 1279997808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_19
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4da0cc7791062324cbcffda06291fc0d
+      internalID: 1336681191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_20
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5adb6d2f6d1c3c746819be33254c2344
+      internalID: 977750203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_21
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a6857fc17a94346a3d6a9b235a3036
+      internalID: -53386951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_22
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c338759c72af34489640d724ceaf63
+      internalID: 1784623938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_23
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eccb18bd92938345b94cc584899cd60
+      internalID: 1024905668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_24
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d61e6d5f5578ff4ab09faf94c1ac93c
+      internalID: 1982602562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_25
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb2a3595f3ade2142be8933b13a48dce
+      internalID: -266563225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_26
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edabf6b98ce558049970f42ba10e2165
+      internalID: 1694378617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_27
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d0e92ded6a4b2145b9f07798482fd19
+      internalID: 798405992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_28
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5399328b32c9fad4d998795b8743c9ea
+      internalID: -190559245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_29
+      rect:
+        serializedVersion: 2
+        x: 1363
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d18f70dd4973b844b807913fb413a28
+      internalID: 170298200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_30
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be1f9d69ae04e34cb1ec29ee5e60de0
+      internalID: -711263418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_31
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91854b134eddb954caa7ca5e59178e4a
+      internalID: 2134956440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_32
+      rect:
+        serializedVersion: 2
+        x: 1504
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ea4cb778ab2cb4d963d83e3d61d8e3
+      internalID: -851407205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_33
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da0e3fd79076e6478572af98c9039b0
+      internalID: -809663693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_34
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3c17e979ca9b14484ae8a0f6dec5ce
+      internalID: 506028215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_35
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab17eadc9a6e454ea1ece5e477f297c
+      internalID: -1906072824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_36
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc502621a8387c468f2812c9ac6f3e8
+      internalID: 438271815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_37
+      rect:
+        serializedVersion: 2
+        x: 1739
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98243fb0f536b074baf6e3bafdffe98d
+      internalID: 391031466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_38
+      rect:
+        serializedVersion: 2
+        x: 1786
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda5be36b1e674c4da9eb52da15b85e3
+      internalID: 1918189361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_39
+      rect:
+        serializedVersion: 2
+        x: 1833
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9966f2498c96f468e64af47f543f26
+      internalID: 1010127709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_40
+      rect:
+        serializedVersion: 2
+        x: 1880
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9234cc15dba1a6545af8c6e3f5a5a01e
+      internalID: 1771034390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_41
+      rect:
+        serializedVersion: 2
+        x: 1927
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63a8328227b7bc41bc69d66eac3b0df
+      internalID: -1099554625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_42
+      rect:
+        serializedVersion: 2
+        x: 1974
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605ce416d136dbe4e84ac057a1bc8d6c
+      internalID: -1021157761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_43
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa8a37b6ff801644a67f463d5a07547
+      internalID: 1216186794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_44
+      rect:
+        serializedVersion: 2
+        x: 2068
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43611c73a58d7f7478290df1a953b4c8
+      internalID: 257970935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_45
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1286f8b4f9c4ed64b81402f8c3595d72
+      internalID: -1071457487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_46
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6f5f049e2b9e542b8ae777d2e506fd
+      internalID: -1375577041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_47
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27382343b3f7d9940bb68601ef7de20f
+      internalID: -1446550057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_48
+      rect:
+        serializedVersion: 2
+        x: 2256
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9863799559c89ad44be2a6c40fa987d2
+      internalID: -813313740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_49
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419978cc1a475d542873a0260e9ec18b
+      internalID: -718940057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_50
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f65ac6fad236cc46b1040c763f14541
+      internalID: 1359826546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_51
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81faf162b836dc41b20ec30ea08acea
+      internalID: -237091217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_52
+      rect:
+        serializedVersion: 2
+        x: 2444
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0079c9fd11caeb45be4ccf2b92dc24e
+      internalID: -726417466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_53
+      rect:
+        serializedVersion: 2
+        x: 2491
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff13a0b1b6467f45ab892d55e3d1df7
+      internalID: -585316865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_54
+      rect:
+        serializedVersion: 2
+        x: 2538
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a7b2c1ff9954bc46ac7068f4986737a
+      internalID: -53649580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_55
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1162f222e3c29048990984f4a532fa1
+      internalID: -1177064980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_56
+      rect:
+        serializedVersion: 2
+        x: 2632
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f430ecb41053c94b9e338a25083eea4
+      internalID: -307583693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_57
+      rect:
+        serializedVersion: 2
+        x: 2679
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7711df4de5369f04d9a2e13c861ee13b
+      internalID: 1519572788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_58
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e17930560bccc3478bf97e10b410224
+      internalID: -2122580609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_59
+      rect:
+        serializedVersion: 2
+        x: 2773
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f47b83cf3e10274b95ec95638a17c78
+      internalID: -848638409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_60
+      rect:
+        serializedVersion: 2
+        x: 2820
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba4140e33241584fb3539e571478aa3
+      internalID: 1071188076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_61
+      rect:
+        serializedVersion: 2
+        x: 2867
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8d7342eab510e429cfd2731deb3948
+      internalID: -707585594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_62
+      rect:
+        serializedVersion: 2
+        x: 2914
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f2a0c603ee610479fae3df9a72caf6
+      internalID: 1009455062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_63
+      rect:
+        serializedVersion: 2
+        x: 2961
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c89a5bd322ed4646ab8469ccdbe1e1c
+      internalID: -1938373884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_64
+      rect:
+        serializedVersion: 2
+        x: 3008
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a63ec54b668114ba98c6f5651ebce6
+      internalID: 1589762249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_65
+      rect:
+        serializedVersion: 2
+        x: 3055
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe0245d3ebedb40aab1be69fdd1fa4
+      internalID: -647921017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_66
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425008e8d9f088d43ad62616f1ba5a0d
+      internalID: -1935741311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_67
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ad7cdf03ad5cc4ca46fa57c999d3de
+      internalID: -1861251025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_68
+      rect:
+        serializedVersion: 2
+        x: 3196
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8794da65e1ba9f42a8f4f4a045237ac
+      internalID: -1051716314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_69
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41a92fc6da4734db24b74221d5c2cb
+      internalID: -1302093324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_70
+      rect:
+        serializedVersion: 2
+        x: 3290
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de5c7968819ca54199548addc4f1aa1
+      internalID: 1509664713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_71
+      rect:
+        serializedVersion: 2
+        x: 3337
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb1dee283d4cb47afdc0c88e2f901a
+      internalID: 1735619590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_72
+      rect:
+        serializedVersion: 2
+        x: 3384
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f57e429b9769f24d81fc8516ffac8d9
+      internalID: -1384067495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_73
+      rect:
+        serializedVersion: 2
+        x: 3431
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8cb06a3ce616542b2afcdca23b94a2
+      internalID: -306876872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_74
+      rect:
+        serializedVersion: 2
+        x: 3478
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04779422abb5eb42af0d31f4bc67ef4
+      internalID: 116324827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_75
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e916e16f2dbe3e458a29863d06f3d36
+      internalID: 1205017882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_76
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d441783d89eef4182f8b1eb248eab5
+      internalID: 286217906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_77
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515902d5b6e009b458be9b7cdee47225
+      internalID: -1778040666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_78
+      rect:
+        serializedVersion: 2
+        x: 3666
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc330c2e1c7f6849b621b1f869a78bc
+      internalID: 904336374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_79
+      rect:
+        serializedVersion: 2
+        x: 3713
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902cbeea8255d544bec13cb1247e171
+      internalID: -2081399986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_80
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ec8ee2dcd17b4fbe1fecb9b7b9047
+      internalID: -330897660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_81
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307ff468e60ff3e4f9eee56ab05fd742
+      internalID: 1834303529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_82
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14fa6a223289bb4e9785bf43aec2407
+      internalID: 2132435653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_83
+      rect:
+        serializedVersion: 2
+        x: 3901
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864a8077cc9981d4a82b8459dbd33bfb
+      internalID: 1369517979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_84
+      rect:
+        serializedVersion: 2
+        x: 3948
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f0cf03e1a79d499823b89b88d3504
+      internalID: -1013146889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_85
+      rect:
+        serializedVersion: 2
+        x: 3995
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14397f56da34c954888f7369a866249a
+      internalID: 1558324162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_86
+      rect:
+        serializedVersion: 2
+        x: 4042
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2a25fcbd9261408566ff336e2dde9
+      internalID: 988876199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_87
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc90cf23d336ae4c9b2d610ad4cf09f
+      internalID: -989065412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_88
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00200a3649a71894fafdcad845e9e6ed
+      internalID: -473888005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_89
+      rect:
+        serializedVersion: 2
+        x: 4183
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629850621ffe6a46b1fd59c216c18f9
+      internalID: 2057478343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_90
+      rect:
+        serializedVersion: 2
+        x: 4230
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49097f269e43c94890155f50784df15
+      internalID: 1750500233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_91
+      rect:
+        serializedVersion: 2
+        x: 4277
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c19ca8daab23046b50fbfbd28e7843
+      internalID: -194366309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_92
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6aa9dea48b3cb845929a8db8716daec
+      internalID: 826811722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_93
+      rect:
+        serializedVersion: 2
+        x: 4371
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05484e01375efc4daf812a19c04abf5
+      internalID: 1027566450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_94
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cdc63a975e43814b9eb77ca832dec94
+      internalID: -694371783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_95
+      rect:
+        serializedVersion: 2
+        x: 4465
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d96fa26ac6effe4198c6b6c695beeda
+      internalID: 1980940873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_96
+      rect:
+        serializedVersion: 2
+        x: 4512
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4e04272a2333f439e89705cfb14a8b
+      internalID: 1520762580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_97
+      rect:
+        serializedVersion: 2
+        x: 4559
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7646e3ef2ab1c4d89faa718ed7a9e2
+      internalID: 1623604176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_98
+      rect:
+        serializedVersion: 2
+        x: 4606
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc98b7f3482e9a4e96f141bfce07c23
+      internalID: 139124733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_99
+      rect:
+        serializedVersion: 2
+        x: 4653
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d2c66d20c5990498f0aa43d89d740d
+      internalID: 452891593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_100
+      rect:
+        serializedVersion: 2
+        x: 4700
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e73edee2d7b79429204143daba3031
+      internalID: 980047719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_101
+      rect:
+        serializedVersion: 2
+        x: 4747
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb858e01ce4d0424780404c273e4b06a
+      internalID: 1256658291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_102
+      rect:
+        serializedVersion: 2
+        x: 4794
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b436c3a75d2bd4240aaa8698be7140e1
+      internalID: 1778070049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_103
+      rect:
+        serializedVersion: 2
+        x: 4841
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272da8dbce189fd469b9963657f03860
+      internalID: -1529930899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_104
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bbad70a585c45e4296b568dba916d17
+      internalID: -139531423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_105
+      rect:
+        serializedVersion: 2
+        x: 4935
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e16d0d8e592f4945b98cfe918614341
+      internalID: -552436690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_106
+      rect:
+        serializedVersion: 2
+        x: 4982
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f07d88466116e459b053cee5c317d2
+      internalID: -2122732821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_107
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddb013f09231d74d9c056f20a3e5bbe
+      internalID: -806499780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_108
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8216f684c80c42c438eea4b5ec468836
+      internalID: 1826439813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_109
+      rect:
+        serializedVersion: 2
+        x: 5123
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7c0ae6b3e775a42a4b944991cecc11
+      internalID: 736111259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_110
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4c9d582f5ae994d847731049365a3d
+      internalID: -90795537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_111
+      rect:
+        serializedVersion: 2
+        x: 5217
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bdb46e092bedc344be8aa1bd7255b3b
+      internalID: -750727808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_112
+      rect:
+        serializedVersion: 2
+        x: 5264
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0663e47a4e8c2e469dd956546aae31a
+      internalID: 1511616972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_113
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e419e0b2cd025e342b375b882d0c5015
+      internalID: 342617218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_114
+      rect:
+        serializedVersion: 2
+        x: 5358
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1998f9549acee69449cb0155aad9bf02
+      internalID: 1290411034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_115
+      rect:
+        serializedVersion: 2
+        x: 5405
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d64d2f449dbac44a304c007f9fafd8
+      internalID: -304100198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_116
+      rect:
+        serializedVersion: 2
+        x: 5452
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1ce382a4e99fd41bdfd46aa8b206f0
+      internalID: 2127285718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_117
+      rect:
+        serializedVersion: 2
+        x: 5499
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582124c7e9d26614a87ef6658add293e
+      internalID: 1607790253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_118
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c63cd2c313ce6a4a82c9bf119717212
+      internalID: -1164050398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_119
+      rect:
+        serializedVersion: 2
+        x: 5593
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5850122b8c7d44646946fed7cbd6a2b1
+      internalID: -1375861317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_120
+      rect:
+        serializedVersion: 2
+        x: 5640
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 907d43890c6113c48be1e3e8990d7e3e
+      internalID: -2027584788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_121
+      rect:
+        serializedVersion: 2
+        x: 5687
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceeab11a440dbcb4988f2f241210c28a
+      internalID: -2067840708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_122
+      rect:
+        serializedVersion: 2
+        x: 5734
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d231f12c8662c95438115ca61fb2e723
+      internalID: 227963559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_123
+      rect:
+        serializedVersion: 2
+        x: 5781
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb0fe298c3fee54ebd30e3a836de8e7
+      internalID: -129803422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_124
+      rect:
+        serializedVersion: 2
+        x: 5828
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e74e6a79a25fa40a92d4556c4a13a0
+      internalID: -155633021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_125
+      rect:
+        serializedVersion: 2
+        x: 5875
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eecd07165c3d054892d2f90a69e0b4c
+      internalID: 1370361817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_126
+      rect:
+        serializedVersion: 2
+        x: 5922
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7126e9201ae742c49a8a788fee39157b
+      internalID: -1104282815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pony-town-Lost-trot-blinking-1x_127
+      rect:
+        serializedVersion: 2
+        x: 5969
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebc2b03798d5cc40a73015e451b4d9e
+      internalID: 281873766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pony-town-Lost-trot-blinking-1x_0: 1141855892
+      pony-town-Lost-trot-blinking-1x_1: 643850993
+      pony-town-Lost-trot-blinking-1x_10: -455252267
+      pony-town-Lost-trot-blinking-1x_100: 980047719
+      pony-town-Lost-trot-blinking-1x_101: 1256658291
+      pony-town-Lost-trot-blinking-1x_102: 1778070049
+      pony-town-Lost-trot-blinking-1x_103: -1529930899
+      pony-town-Lost-trot-blinking-1x_104: -139531423
+      pony-town-Lost-trot-blinking-1x_105: -552436690
+      pony-town-Lost-trot-blinking-1x_106: -2122732821
+      pony-town-Lost-trot-blinking-1x_107: -806499780
+      pony-town-Lost-trot-blinking-1x_108: 1826439813
+      pony-town-Lost-trot-blinking-1x_109: 736111259
+      pony-town-Lost-trot-blinking-1x_11: -1973850097
+      pony-town-Lost-trot-blinking-1x_110: -90795537
+      pony-town-Lost-trot-blinking-1x_111: -750727808
+      pony-town-Lost-trot-blinking-1x_112: 1511616972
+      pony-town-Lost-trot-blinking-1x_113: 342617218
+      pony-town-Lost-trot-blinking-1x_114: 1290411034
+      pony-town-Lost-trot-blinking-1x_115: -304100198
+      pony-town-Lost-trot-blinking-1x_116: 2127285718
+      pony-town-Lost-trot-blinking-1x_117: 1607790253
+      pony-town-Lost-trot-blinking-1x_118: -1164050398
+      pony-town-Lost-trot-blinking-1x_119: -1375861317
+      pony-town-Lost-trot-blinking-1x_12: 1708784561
+      pony-town-Lost-trot-blinking-1x_120: -2027584788
+      pony-town-Lost-trot-blinking-1x_121: -2067840708
+      pony-town-Lost-trot-blinking-1x_122: 227963559
+      pony-town-Lost-trot-blinking-1x_123: -129803422
+      pony-town-Lost-trot-blinking-1x_124: -155633021
+      pony-town-Lost-trot-blinking-1x_125: 1370361817
+      pony-town-Lost-trot-blinking-1x_126: -1104282815
+      pony-town-Lost-trot-blinking-1x_127: 281873766
+      pony-town-Lost-trot-blinking-1x_13: -2065467740
+      pony-town-Lost-trot-blinking-1x_14: -1586351056
+      pony-town-Lost-trot-blinking-1x_15: -513674355
+      pony-town-Lost-trot-blinking-1x_16: 1356086970
+      pony-town-Lost-trot-blinking-1x_17: -1276444294
+      pony-town-Lost-trot-blinking-1x_18: 1279997808
+      pony-town-Lost-trot-blinking-1x_19: 1336681191
+      pony-town-Lost-trot-blinking-1x_2: 2064832499
+      pony-town-Lost-trot-blinking-1x_20: 977750203
+      pony-town-Lost-trot-blinking-1x_21: -53386951
+      pony-town-Lost-trot-blinking-1x_22: 1784623938
+      pony-town-Lost-trot-blinking-1x_23: 1024905668
+      pony-town-Lost-trot-blinking-1x_24: 1982602562
+      pony-town-Lost-trot-blinking-1x_25: -266563225
+      pony-town-Lost-trot-blinking-1x_26: 1694378617
+      pony-town-Lost-trot-blinking-1x_27: 798405992
+      pony-town-Lost-trot-blinking-1x_28: -190559245
+      pony-town-Lost-trot-blinking-1x_29: 170298200
+      pony-town-Lost-trot-blinking-1x_3: 1502586930
+      pony-town-Lost-trot-blinking-1x_30: -711263418
+      pony-town-Lost-trot-blinking-1x_31: 2134956440
+      pony-town-Lost-trot-blinking-1x_32: -851407205
+      pony-town-Lost-trot-blinking-1x_33: -809663693
+      pony-town-Lost-trot-blinking-1x_34: 506028215
+      pony-town-Lost-trot-blinking-1x_35: -1906072824
+      pony-town-Lost-trot-blinking-1x_36: 438271815
+      pony-town-Lost-trot-blinking-1x_37: 391031466
+      pony-town-Lost-trot-blinking-1x_38: 1918189361
+      pony-town-Lost-trot-blinking-1x_39: 1010127709
+      pony-town-Lost-trot-blinking-1x_4: -1955942976
+      pony-town-Lost-trot-blinking-1x_40: 1771034390
+      pony-town-Lost-trot-blinking-1x_41: -1099554625
+      pony-town-Lost-trot-blinking-1x_42: -1021157761
+      pony-town-Lost-trot-blinking-1x_43: 1216186794
+      pony-town-Lost-trot-blinking-1x_44: 257970935
+      pony-town-Lost-trot-blinking-1x_45: -1071457487
+      pony-town-Lost-trot-blinking-1x_46: -1375577041
+      pony-town-Lost-trot-blinking-1x_47: -1446550057
+      pony-town-Lost-trot-blinking-1x_48: -813313740
+      pony-town-Lost-trot-blinking-1x_49: -718940057
+      pony-town-Lost-trot-blinking-1x_5: 163338461
+      pony-town-Lost-trot-blinking-1x_50: 1359826546
+      pony-town-Lost-trot-blinking-1x_51: -237091217
+      pony-town-Lost-trot-blinking-1x_52: -726417466
+      pony-town-Lost-trot-blinking-1x_53: -585316865
+      pony-town-Lost-trot-blinking-1x_54: -53649580
+      pony-town-Lost-trot-blinking-1x_55: -1177064980
+      pony-town-Lost-trot-blinking-1x_56: -307583693
+      pony-town-Lost-trot-blinking-1x_57: 1519572788
+      pony-town-Lost-trot-blinking-1x_58: -2122580609
+      pony-town-Lost-trot-blinking-1x_59: -848638409
+      pony-town-Lost-trot-blinking-1x_6: 650674369
+      pony-town-Lost-trot-blinking-1x_60: 1071188076
+      pony-town-Lost-trot-blinking-1x_61: -707585594
+      pony-town-Lost-trot-blinking-1x_62: 1009455062
+      pony-town-Lost-trot-blinking-1x_63: -1938373884
+      pony-town-Lost-trot-blinking-1x_64: 1589762249
+      pony-town-Lost-trot-blinking-1x_65: -647921017
+      pony-town-Lost-trot-blinking-1x_66: -1935741311
+      pony-town-Lost-trot-blinking-1x_67: -1861251025
+      pony-town-Lost-trot-blinking-1x_68: -1051716314
+      pony-town-Lost-trot-blinking-1x_69: -1302093324
+      pony-town-Lost-trot-blinking-1x_7: 1083249293
+      pony-town-Lost-trot-blinking-1x_70: 1509664713
+      pony-town-Lost-trot-blinking-1x_71: 1735619590
+      pony-town-Lost-trot-blinking-1x_72: -1384067495
+      pony-town-Lost-trot-blinking-1x_73: -306876872
+      pony-town-Lost-trot-blinking-1x_74: 116324827
+      pony-town-Lost-trot-blinking-1x_75: 1205017882
+      pony-town-Lost-trot-blinking-1x_76: 286217906
+      pony-town-Lost-trot-blinking-1x_77: -1778040666
+      pony-town-Lost-trot-blinking-1x_78: 904336374
+      pony-town-Lost-trot-blinking-1x_79: -2081399986
+      pony-town-Lost-trot-blinking-1x_8: 1957384640
+      pony-town-Lost-trot-blinking-1x_80: -330897660
+      pony-town-Lost-trot-blinking-1x_81: 1834303529
+      pony-town-Lost-trot-blinking-1x_82: 2132435653
+      pony-town-Lost-trot-blinking-1x_83: 1369517979
+      pony-town-Lost-trot-blinking-1x_84: -1013146889
+      pony-town-Lost-trot-blinking-1x_85: 1558324162
+      pony-town-Lost-trot-blinking-1x_86: 988876199
+      pony-town-Lost-trot-blinking-1x_87: -989065412
+      pony-town-Lost-trot-blinking-1x_88: -473888005
+      pony-town-Lost-trot-blinking-1x_89: 2057478343
+      pony-town-Lost-trot-blinking-1x_9: 987349796
+      pony-town-Lost-trot-blinking-1x_90: 1750500233
+      pony-town-Lost-trot-blinking-1x_91: -194366309
+      pony-town-Lost-trot-blinking-1x_92: 826811722
+      pony-town-Lost-trot-blinking-1x_93: 1027566450
+      pony-town-Lost-trot-blinking-1x_94: -694371783
+      pony-town-Lost-trot-blinking-1x_95: 1980940873
+      pony-town-Lost-trot-blinking-1x_96: 1520762580
+      pony-town-Lost-trot-blinking-1x_97: 1623604176
+      pony-town-Lost-trot-blinking-1x_98: 139124733
+      pony-town-Lost-trot-blinking-1x_99: 452891593
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
