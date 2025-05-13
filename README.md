@@ -15,6 +15,7 @@
 
 ---
 ## Descriere
+![[gameImage.png]]
 **Last Hope** este un platformer 2D bazat pe un desen personal în care jucătorul trebuie să se ferească de creaturile din umbră, să strângă lumini ce oferă speranță și să supraviețuiască cât mai mult timp în temnița întunecată.
 
 A fost creat folosind Unity 2022.3.62f1 pe Windows 10.
