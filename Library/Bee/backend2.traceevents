@@ -1,428 +1,466 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
-,{ "pid":12345, "tid":0, "ts":1747087131771297, "dur":70, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087131771470, "dur":53695, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087131825185, "dur":907, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087131826183, "dur":673, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087131827119, "dur":63, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/level0" }}
-,{ "pid":12345, "tid":0, "ts":1747087131827298, "dur":60, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":0, "ts":1747087131827369, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":0, "ts":1747087131827527, "dur":59, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":0, "ts":1747087131828911, "dur":407, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1747087131829326, "dur":306, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1747087131829683, "dur":180, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PropertiesModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1747087131829989, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1747087131830397, "dur":201, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":0, "ts":1747087131826928, "dur":7021, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087131833951, "dur":25188310, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087157022267, "dur":515, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087157022783, "dur":78, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":0, "ts":1747087157023566, "dur":7030, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
-,{ "pid":12345, "tid":1, "ts":1747087131827505, "dur":6457, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1747087131833967, "dur":11520, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1747087131849216, "dur":1556, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
-,{ "pid":12345, "tid":1, "ts":1747087131850783, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1747087131850977, "dur":30382, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":1, "ts":1747087131881366, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":1, "ts":1747087131882917, "dur":6056, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131888979, "dur":1313, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131890296, "dur":1158, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131891458, "dur":2205, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131893669, "dur":540, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131894215, "dur":1450, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131895670, "dur":463, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.burst@1.8.21\\Unity.Burst.Unsafe.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131896138, "dur":311, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Runtime.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131896458, "dur":433, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131896896, "dur":2008, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131898909, "dur":2725, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131901643, "dur":942, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131902590, "dur":5815, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131908411, "dur":1037, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131909453, "dur":15274, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131924734, "dur":1672, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131926418, "dur":1002, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131927427, "dur":1251, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131928689, "dur":1396, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131930091, "dur":1260, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131931357, "dur":1418, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131932782, "dur":9531, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131942322, "dur":2844, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131945172, "dur":1919, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131947099, "dur":1256, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Transactions.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131948378, "dur":1843, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131950227, "dur":18387, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131968621, "dur":21201, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131989831, "dur":22364, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132012200, "dur":314, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playerdad910d1-inputdata.json" }}
-,{ "pid":12345, "tid":1, "ts":1747087132012638, "dur":285501, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.BuildTools.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132298144, "dur":2147, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Core.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132300296, "dur":648887, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.CSharpSupport.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132949189, "dur":1227, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.DotNet.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132950423, "dur":1226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.NativeProgramSupport.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132951655, "dur":1021, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Stevedore.Program.exe" }}
-,{ "pid":12345, "tid":1, "ts":1747087132952681, "dur":609, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TinyProfiler2.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087132953295, "dur":243967, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.GNU.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087133197267, "dur":160368, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.LLVM.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087133357641, "dur":510981, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.VisualStudio.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087133868629, "dur":368151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Toolchain.Xcode.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134236787, "dur":1192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.Tools.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134237984, "dur":1064, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.TundraBackend.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134239053, "dur":344, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Bee.VisualStudioSolution.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134239401, "dur":264, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134239669, "dur":250, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeBuildProgramCommon.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134239922, "dur":1596, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\BeeLocalCacheTool.exe" }}
-,{ "pid":12345, "tid":1, "ts":1747087134241523, "dur":20105, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Newtonsoft.Json.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134261634, "dur":845, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\NiceIO.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134262485, "dur":342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134262830, "dur":371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\PlayerBuildProgramLibrary.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134263205, "dur":324, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134263532, "dur":875, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\ScriptCompilationBuildProgram.exe" }}
-,{ "pid":12345, "tid":1, "ts":1747087134264412, "dur":361687, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\SharpYaml.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134626104, "dur":83749, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Api.Attributes.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134709857, "dur":220525, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087134930386, "dur":212799, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Mdb.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135143191, "dur":111058, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Pdb.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135254266, "dur":156608, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Cecil.Rocks.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135410880, "dur":365, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Api.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135411250, "dur":319, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.BuildLogic.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135411572, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.IL2CPP.Bee.IL2CPPExeCompileCppBuildProgram.Data.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135411811, "dur":214, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Linker.Api.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087135412028, "dur":288060, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\Tools\\BuildPipeline\\Unity.Options.dll" }}
-,{ "pid":12345, "tid":1, "ts":1747087131850780, "dur":3849311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1747087135700101, "dur":106, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":1, "ts":1747087135700366, "dur":261889, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1747087135973765, "dur":263, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1747087135973763, "dur":267, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1747087135974068, "dur":2554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/boot.config" }}
-,{ "pid":12345, "tid":1, "ts":1747087135976629, "dur":21045633, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087131827614, "dur":6376, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087131833994, "dur":2112, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087131836107, "dur":9438, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087131845550, "dur":329, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":2, "ts":1747087131886411, "dur":266, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087131886762, "dur":9647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/config" }}
-,{ "pid":12345, "tid":2, "ts":1747087131896538, "dur":335, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1747087131897600, "dur":8224, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1747087131906302, "dur":431, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1747087131915794, "dur":215, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087131908659, "dur":7383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1747087131916240, "dur":342, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":2, "ts":1747087131916856, "dur":6168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":2, "ts":1747087131923233, "dur":435, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1747087131925594, "dur":7670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":2, "ts":1747087131933647, "dur":618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1747087131935596, "dur":8421, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
-,{ "pid":12345, "tid":2, "ts":1747087131944273, "dur":63126, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1747087131944263, "dur":63141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1747087132007481, "dur":4796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
-,{ "pid":12345, "tid":2, "ts":1747087132028338, "dur":202, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132014052, "dur":14533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/mscorlib.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132029485, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132029620, "dur":678, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132030318, "dur":11508, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Xml.Linq.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132052232, "dur":89, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132042925, "dur":9933, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.ServiceModel.Internals.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132053173, "dur":5507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132058870, "dur":573, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132069510, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132059458, "dur":10272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Numerics.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132069928, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132076263, "dur":129, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132070023, "dur":6478, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132076739, "dur":8506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Drawing.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132085420, "dur":131, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132085415, "dur":140, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132085606, "dur":4777, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132090884, "dur":9450, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Configuration.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132108536, "dur":356, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132100769, "dur":8171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132109256, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132109356, "dur":5827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/netstandard.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132115427, "dur":9752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Burst.Unsafe.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132125660, "dur":6681, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132132740, "dur":7210, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132140690, "dur":5587, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.PixelPerfect.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132146598, "dur":28786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Collections.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132175627, "dur":22354, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.InputSystem.ForUI.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132198485, "dur":5432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132204207, "dur":5047, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132209677, "dur":4455, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Burst.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132214379, "dur":5565, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132235501, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132220206, "dur":15796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.XRModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132236309, "dur":11718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VehiclesModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132248380, "dur":16849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132265559, "dur":13770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132279571, "dur":6235, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132286150, "dur":9571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TilemapModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132295940, "dur":11581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132307879, "dur":7747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132316368, "dur":11887, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132328399, "dur":151, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132328560, "dur":7282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ProfilerModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132336120, "dur":27954, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132364480, "dur":10832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132375611, "dur":16380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ClothModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132392200, "dur":6974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":2, "ts":1747087132399372, "dur":15762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets0.assets" }}
-,{ "pid":12345, "tid":2, "ts":1747087132415356, "dur":138, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":2, "ts":1747087132415524, "dur":5149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/resources.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1747087132420908, "dur":8085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers.assets.resS" }}
-,{ "pid":12345, "tid":2, "ts":1747087132429151, "dur":24593091, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131827520, "dur":6451, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131833975, "dur":1754, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131835730, "dur":1958, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131837689, "dur":7822, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131849552, "dur":1755, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
-,{ "pid":12345, "tid":3, "ts":1747087131851322, "dur":214, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/app.info" }}
-,{ "pid":12345, "tid":3, "ts":1747087131854126, "dur":10162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/app.info" }}
-,{ "pid":12345, "tid":3, "ts":1747087131864295, "dur":356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1747087131871439, "dur":7806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
-,{ "pid":12345, "tid":3, "ts":1747087131879426, "dur":43484, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1747087131879419, "dur":43495, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1747087131930126, "dur":181, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131922971, "dur":7376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
-,{ "pid":12345, "tid":3, "ts":1747087131930537, "dur":41837, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
-,{ "pid":12345, "tid":3, "ts":1747087131930532, "dur":41846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1747087131983901, "dur":145, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087131972438, "dur":11646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/web.config" }}
-,{ "pid":12345, "tid":3, "ts":1747087131984368, "dur":221850, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
-,{ "pid":12345, "tid":3, "ts":1747087131984366, "dur":221857, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer.exe" }}
-,{ "pid":12345, "tid":3, "ts":1747087132224160, "dur":55, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087132206282, "dur":17958, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer.exe" }}
-,{ "pid":12345, "tid":3, "ts":1747087132224456, "dur":13182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132247358, "dur":255, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087132237861, "dur":9792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VRModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132256310, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":3, "ts":1747087132247873, "dur":8669, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132257248, "dur":20706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132278183, "dur":6426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132284858, "dur":15033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UIElementsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132300110, "dur":8650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132308977, "dur":11971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.StreamingModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132321364, "dur":10285, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132331993, "dur":6627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PhysicsModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132338835, "dur":5696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132344757, "dur":4753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.InputModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132350117, "dur":8297, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.IMGUIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132358892, "dur":8020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.GameCenterModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132367105, "dur":13068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.CoreModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132380386, "dur":14331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132395285, "dur":488123, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132395279, "dur":488134, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132883490, "dur":46045, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/UnityPlayer.dll" }}
-,{ "pid":12345, "tid":3, "ts":1747087132929701, "dur":24092536, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1747087131827595, "dur":6385, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1747087131833986, "dur":2167, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1747087131836154, "dur":9377, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1747087131845570, "dur":508861, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":4, "ts":1747087131845534, "dur":508901, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":4, "ts":1747087132354487, "dur":9550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/UnityCrashHandler64.exe" }}
-,{ "pid":12345, "tid":4, "ts":1747087132364337, "dur":10211, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.DirectorModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1747087132374936, "dur":8633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1747087132384254, "dur":16427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
-,{ "pid":12345, "tid":4, "ts":1747087132400965, "dur":15590, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/ScriptingAssemblies.json" }}
-,{ "pid":12345, "tid":4, "ts":1747087132422216, "dur":236, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":4, "ts":1747087132416769, "dur":5735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/level1" }}
-,{ "pid":12345, "tid":4, "ts":1747087132422751, "dur":8191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers.assets" }}
-,{ "pid":12345, "tid":4, "ts":1747087132431099, "dur":24591134, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087131827685, "dur":6315, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087131834005, "dur":2098, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087131836104, "dur":9434, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087131845573, "dur":150930, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1747087131845541, "dur":150967, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1747087131998012, "dur":4386, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
-,{ "pid":12345, "tid":5, "ts":1747087132002572, "dur":458, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":5, "ts":1747087132004089, "dur":8557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity default resources" }}
-,{ "pid":12345, "tid":5, "ts":1747087132026172, "dur":79, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132014115, "dur":12189, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132027202, "dur":14258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Xml.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132042126, "dur":8812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Transactions.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132051234, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132051302, "dur":8772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Security.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132060355, "dur":6372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Net.Http.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132066924, "dur":7349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132074656, "dur":5177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132087208, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132080088, "dur":7322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Data.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132087832, "dur":178, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132088037, "dur":460, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132088514, "dur":12781, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Core.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132109644, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132101557, "dur":8782, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Mono.Security.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132110607, "dur":86, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132110705, "dur":9022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132120097, "dur":5636, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132126062, "dur":62, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132133786, "dur":109, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132126135, "dur":7801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Cinemachine.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132134907, "dur":233, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132138862, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132135155, "dur":4009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132144700, "dur":117, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132139412, "dur":5624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Mathematics.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132145263, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132164771, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132145362, "dur":19596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132165189, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132178349, "dur":94, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132165252, "dur":13230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132178778, "dur":179, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132184291, "dur":119, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132178989, "dur":5464, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.InputSystem.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132184840, "dur":3703, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132188772, "dur":4417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.Common.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132198963, "dur":80, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132193363, "dur":5721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132199340, "dur":5111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132204853, "dur":85, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132205032, "dur":5653, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132210972, "dur":7272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.IK.Runtime.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132218505, "dur":5349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132231265, "dur":252, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132224059, "dur":7499, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.WindModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132231811, "dur":8228, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VideoModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132254600, "dur":265, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132240438, "dur":14546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132269552, "dur":116, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132255232, "dur":14516, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132270220, "dur":172, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132270405, "dur":10707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132281359, "dur":5985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UIModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132287715, "dur":412, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132302175, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132288177, "dur":14117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132302551, "dur":5994, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TLSModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132308760, "dur":5262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SubstanceModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132314224, "dur":12084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132326537, "dur":7803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132334726, "dur":52, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132334810, "dur":5809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132340935, "dur":5338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.LocalizationModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132346579, "dur":4191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132350976, "dur":11309, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132362496, "dur":5166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.GIModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132367872, "dur":11713, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132397965, "dur":192, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132379823, "dur":18403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
-,{ "pid":12345, "tid":5, "ts":1747087132415274, "dur":112, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132398873, "dur":16542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets0.assets.resS" }}
-,{ "pid":12345, "tid":5, "ts":1747087132415705, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132427001, "dur":56, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":5, "ts":1747087132415770, "dur":11419, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/resources.assets" }}
-,{ "pid":12345, "tid":5, "ts":1747087132427498, "dur":24594742, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1747087131827744, "dur":6267, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1747087131834015, "dur":2081, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1747087131836097, "dur":9558, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1747087131845676, "dur":61977, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
-,{ "pid":12345, "tid":6, "ts":1747087131845656, "dur":62001, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":6, "ts":1747087131907731, "dur":4181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/web.config" }}
-,{ "pid":12345, "tid":6, "ts":1747087131912062, "dur":38973, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1747087131912056, "dur":38984, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1747087131951112, "dur":6524, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
-,{ "pid":12345, "tid":6, "ts":1747087131958054, "dur":618, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":6, "ts":1747087131966704, "dur":121, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1747087131960899, "dur":5968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
-,{ "pid":12345, "tid":6, "ts":1747087131967116, "dur":384679, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":6, "ts":1747087131967110, "dur":384689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":6, "ts":1747087132351824, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":6, "ts":1747087132352192, "dur":17582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
-,{ "pid":12345, "tid":6, "ts":1747087132369969, "dur":10086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1747087132380258, "dur":18197, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AnimationModule.dll" }}
-,{ "pid":12345, "tid":6, "ts":1747087132398696, "dur":16120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets1.assets" }}
-,{ "pid":12345, "tid":6, "ts":1747087132420868, "dur":7456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity_builtin_extra" }}
-,{ "pid":12345, "tid":6, "ts":1747087132428464, "dur":24593800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087131827776, "dur":6243, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087131834024, "dur":2114, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087131836138, "dur":9424, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087131845568, "dur":314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":7, "ts":1747087131893492, "dur":395, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087131884790, "dur":9136, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/browscap.ini" }}
-,{ "pid":12345, "tid":7, "ts":1747087131894256, "dur":463, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1747087131895125, "dur":4791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1747087131900091, "dur":50255, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
-,{ "pid":12345, "tid":7, "ts":1747087131900086, "dur":50264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1747087131950375, "dur":90, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087131950481, "dur":5718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/web.config" }}
-,{ "pid":12345, "tid":7, "ts":1747087131956360, "dur":443, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1747087131957155, "dur":5069, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
-,{ "pid":12345, "tid":7, "ts":1747087131964002, "dur":264135, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087131963995, "dur":264146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132228168, "dur":112, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087132237560, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087132229883, "dur":7834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132238105, "dur":13094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VFXModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132251579, "dur":28536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132280465, "dur":11289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UmbraModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132291993, "dur":10083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132312149, "dur":81, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087132302287, "dur":9982, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TerrainModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132312591, "dur":15597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132328381, "dur":5695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PropertiesModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132334484, "dur":6165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132349430, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087132340943, "dur":8574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132349778, "dur":5048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132355223, "dur":10685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.GridModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132366203, "dur":9368, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132376038, "dur":17451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AudioModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132394061, "dur":16643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AIModule.dll" }}
-,{ "pid":12345, "tid":7, "ts":1747087132410892, "dur":146, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087132411050, "dur":6786, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/RuntimeInitializeOnLoads.json" }}
-,{ "pid":12345, "tid":7, "ts":1747087132418191, "dur":7504, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/level0" }}
-,{ "pid":12345, "tid":7, "ts":1747087132432179, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":7, "ts":1747087132425943, "dur":6519, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers" }}
-,{ "pid":12345, "tid":7, "ts":1747087132432861, "dur":24589413, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1747087131827838, "dur":6190, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1747087131834029, "dur":1998, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1747087131836028, "dur":139, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1747087131836167, "dur":9353, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1747087131845625, "dur":297, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.ARModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131846100, "dur":969, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.NVIDIAModule.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131847328, "dur":725, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131848058, "dur":800, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131848862, "dur":1959, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131850825, "dur":4027, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131854860, "dur":1348, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131856214, "dur":981, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131857208, "dur":2311, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131859524, "dur":825, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131860354, "dur":992, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131861357, "dur":4313, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131865676, "dur":6381, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131872061, "dur":515, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131872580, "dur":3236, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131875821, "dur":4518, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131880343, "dur":1095, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131881442, "dur":955, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131882402, "dur":5499, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131887906, "dur":2185, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131890098, "dur":1342, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131891446, "dur":2035, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131893487, "dur":693, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.collections@1.2.4\\Unity.Collections.LowLevel.ILSupport\\Unity.Collections.LowLevel.ILSupport.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131894186, "dur":1444, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.visualscripting@1.9.4\\Runtime\\VisualScripting.Flow\\Dependencies\\NCalc\\Unity.VisualScripting.Antlr3.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131895635, "dur":459, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.burst@1.8.21\\Unity.Burst.Unsafe.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131896098, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\System.Runtime.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131896413, "dur":371, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Facades\\netstandard.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131896788, "dur":1780, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\Mono.Security.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131898574, "dur":3020, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.ComponentModel.Composition.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131901600, "dur":1007, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Configuration.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131902625, "dur":5531, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Core.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131908161, "dur":1172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.DataSetExtensions.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131909339, "dur":13445, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Data.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131922791, "dur":4118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Drawing.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131926916, "dur":580, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.EnterpriseServices.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131927503, "dur":1309, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.FileSystem.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131928817, "dur":2467, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.IO.Compression.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131931290, "dur":860, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Net.Http.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131932157, "dur":1805, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Numerics.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131933968, "dur":16232, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Runtime.Serialization.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131950231, "dur":17175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Xml.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131967412, "dur":22332, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087131989751, "dur":24800, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\mscorlib.dll" }}
-,{ "pid":12345, "tid":8, "ts":1747087132014556, "dur":128, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
-,{ "pid":12345, "tid":8, "ts":1747087132014960, "dur":732335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.burst@1.8.21\\.Runtime\\bcl.exe" }}
-,{ "pid":12345, "tid":8, "ts":1747087131845526, "dur":901775, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
-,{ "pid":12345, "tid":8, "ts":1747087132747319, "dur":164, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
-,{ "pid":12345, "tid":8, "ts":1747087132750323, "dur":24261547, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
-,{ "pid":12345, "tid":0, "ts":1747087157044027, "dur":5599, "ph":"X", "name": "ProfilerWriteOutput" }
+,{ "pid":12345, "tid":0, "ts":1747159000743962, "dur":61, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159000744077, "dur":48912, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159000793017, "dur":324, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159000793420, "dur":518, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159000794111, "dur":67, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1747159000798531, "dur":66, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":0, "ts":1747159000793979, "dur":5607, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159000799589, "dur":490920, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159001290511, "dur":469, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159001290981, "dur":120, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159001291390, "dur":6831, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1747159000794546, "dur":5051, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747159000799601, "dur":11635, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747159000812916, "dur":1096, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1747159000814022, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1747159000814210, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":1, "ts":1747159000814673, "dur":910, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000815587, "dur":258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000815848, "dur":347, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000816199, "dur":404, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000816607, "dur":1943, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000818554, "dur":294, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000818851, "dur":517, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000819370, "dur":602, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000819975, "dur":290, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000820267, "dur":180, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000820449, "dur":1093, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000821545, "dur":595, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000822143, "dur":184, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000822329, "dur":515, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1747159000814019, "dur":9186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1747159000824080, "dur":112, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1747159000824788, "dur":448105, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1747159001286919, "dur":310, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1747159001286916, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1747159001287282, "dur":3139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1747159000794625, "dur":4987, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000799617, "dur":1807, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000801425, "dur":9824, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000811744, "dur":199, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000811945, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000812091, "dur":594, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000812690, "dur":1045, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000813740, "dur":376, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000814119, "dur":464, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000814587, "dur":895, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000815487, "dur":237, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000815727, "dur":246, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000815976, "dur":404, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000816383, "dur":1810, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000818200, "dur":391, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000818595, "dur":737, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000819337, "dur":1032, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Collections.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000820383, "dur":288, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000820675, "dur":1190, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000821868, "dur":567, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000822440, "dur":534, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000823045, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"ProjectSettings\\BurstAotSettings_StandaloneWindows.json" }}
+,{ "pid":12345, "tid":2, "ts":1747159000823211, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\enyae\\Guiding Light (Win)\\Library\\PackageCache\\com.unity.burst@1.8.21\\.Runtime\\bcl.exe" }}
+,{ "pid":12345, "tid":2, "ts":1747159000811256, "dur":12152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":2, "ts":1747159000823409, "dur":402, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000824747, "dur":81, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\AsyncPluginsFromLinker\\x86_64\\lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000824745, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000824833, "dur":76, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000826479, "dur":4292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000830777, "dur":427, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1747159000831207, "dur":90, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000831336, "dur":6208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1747159000837766, "dur":414, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1747159000838184, "dur":875, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000839383, "dur":13476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1747159000853094, "dur":1649, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1747159000854745, "dur":2198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000866041, "dur":281, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000859188, "dur":7168, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1747159000866524, "dur":1438, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000868035, "dur":5091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000873269, "dur":1620, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000874963, "dur":5824, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000880924, "dur":616, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000881620, "dur":8272, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000890111, "dur":505, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000890689, "dur":10348, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000901199, "dur":736, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000901990, "dur":5507, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000907662, "dur":186, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000907963, "dur":10532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.PixelPerfect.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000918722, "dur":521, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000927327, "dur":221, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000919307, "dur":8697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.Common.Runtime.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000928207, "dur":133, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000928365, "dur":1988, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000930367, "dur":7820, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000938364, "dur":215, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000938638, "dur":5979, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000944804, "dur":385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000945222, "dur":363, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000945618, "dur":8433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000954260, "dur":733, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000955122, "dur":10812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000966085, "dur":399, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000966549, "dur":8772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000975693, "dur":196, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000975946, "dur":10080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000986298, "dur":316, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000986754, "dur":8827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159000995799, "dur":539, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159000996421, "dur":9380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159001006108, "dur":335, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159001006503, "dur":7472, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159001014197, "dur":231, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159001014490, "dur":6702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159001021398, "dur":240, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1747159001021699, "dur":8474, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1747159001030418, "dur":14115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":2, "ts":1747159001044807, "dur":13712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1747159001058728, "dur":231775, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000794614, "dur":4990, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000799608, "dur":1861, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000801470, "dur":9776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000811274, "dur":208, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000811510, "dur":91, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000814403, "dur":5599, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/app.info" }}
+,{ "pid":12345, "tid":3, "ts":1747159000820010, "dur":322, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1747159000820334, "dur":95, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000822841, "dur":3679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1747159000826812, "dur":286, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1747159000826807, "dur":294, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1747159000827105, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000827778, "dur":3439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1747159000831354, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1747159000831704, "dur":120, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000833014, "dur":5523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":3, "ts":1747159000838670, "dur":335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1747159000838664, "dur":344, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1747159000839010, "dur":86, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000839234, "dur":9711, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1747159000849070, "dur":283, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1747159000849356, "dur":87, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000849609, "dur":7830, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1747159000857549, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1747159000857875, "dur":109, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000859674, "dur":11970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":3, "ts":1747159000871804, "dur":118, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000878691, "dur":96, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000872039, "dur":6779, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000878996, "dur":113, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000879155, "dur":7834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000887214, "dur":248, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000887584, "dur":9568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000897332, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000897696, "dur":7476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000905357, "dur":264, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000905655, "dur":68, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000905781, "dur":8810, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000914756, "dur":547, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000915388, "dur":7179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.InputSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000922739, "dur":521, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000923322, "dur":8861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.Tilemap.Extras.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000932418, "dur":276, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000945174, "dur":244, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000932751, "dur":12751, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000946241, "dur":470, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000946782, "dur":11338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000958338, "dur":707, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000959113, "dur":6944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000966224, "dur":261, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000978360, "dur":473, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000966564, "dur":12874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000979680, "dur":633, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000980484, "dur":10102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159000990755, "dur":216, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159000991051, "dur":9384, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159001001261, "dur":96, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159001001552, "dur":1014, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159001002625, "dur":9394, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159001012232, "dur":305, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159001012601, "dur":6038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159001018899, "dur":167, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1747159001019120, "dur":6072, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1747159001025446, "dur":11716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1747159001037371, "dur":13577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1747159001051132, "dur":6145, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":3, "ts":1747159001057424, "dur":233049, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000794691, "dur":4930, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000799626, "dur":1959, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000801586, "dur":9669, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000811290, "dur":253, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1747159000811257, "dur":287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1747159000811545, "dur":79, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000832480, "dur":4378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":4, "ts":1747159000837050, "dur":369, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000837045, "dur":379, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000837427, "dur":833, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000838904, "dur":5536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000844631, "dur":360, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000844626, "dur":369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000844998, "dur":142, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000846153, "dur":3188, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000849462, "dur":262, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000849458, "dur":268, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000849727, "dur":67, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000849830, "dur":10717, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":4, "ts":1747159000861033, "dur":131, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000864264, "dur":76, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000864352, "dur":21343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000885866, "dur":730, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000898941, "dur":595, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000886660, "dur":12964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000901370, "dur":567, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000902010, "dur":7487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000909666, "dur":1056, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000910812, "dur":9740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.SpriteShape.Runtime.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000920723, "dur":267, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000928737, "dur":1254, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000921050, "dur":9033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000930427, "dur":798, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000931256, "dur":82, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000931351, "dur":9091, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000940637, "dur":2255, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000942919, "dur":234, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000943166, "dur":11443, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000954822, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000955131, "dur":9978, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000965410, "dur":164, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000965634, "dur":7936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000973772, "dur":463, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000974361, "dur":7626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000982236, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000982506, "dur":8006, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159000990723, "dur":247, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159000991037, "dur":9009, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159001000246, "dur":280, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159001000585, "dur":7696, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159001008447, "dur":202, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159001008699, "dur":8700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159001017657, "dur":158, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159001023042, "dur":252, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159001017862, "dur":5479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159001023554, "dur":149, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159001023756, "dur":11160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1747159001035635, "dur":4498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":4, "ts":1747159001040362, "dur":116, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1747159001040490, "dur":11870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/resources.assets" }}
+,{ "pid":12345, "tid":4, "ts":1747159001052532, "dur":237974, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000794747, "dur":4883, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000799633, "dur":1614, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000801247, "dur":1366, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000802613, "dur":8638, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000811286, "dur":284, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1747159000811257, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1747159000811573, "dur":83, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000847151, "dur":3102, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000833163, "dur":17117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":5, "ts":1747159000850418, "dur":348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1747159000850768, "dur":336, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000851166, "dur":9767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1747159000861077, "dur":92, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000863123, "dur":12918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000877194, "dur":1414, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000878639, "dur":121, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000878773, "dur":9629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000888595, "dur":171, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000888828, "dur":10007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000899071, "dur":268, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000899426, "dur":14367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000914098, "dur":1199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000915366, "dur":7730, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.InputSystem.ForUI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000923543, "dur":994, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000924607, "dur":8803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.Animation.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000933608, "dur":834, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000934514, "dur":8757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000943464, "dur":498, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000944038, "dur":6627, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000950889, "dur":503, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000951457, "dur":8345, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000960034, "dur":420, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000960516, "dur":6671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000967408, "dur":222, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000967746, "dur":8537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000976582, "dur":352, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000976999, "dur":7802, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000984981, "dur":178, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000985215, "dur":8872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159000994274, "dur":314, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159000994653, "dur":9983, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159001004839, "dur":163, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159001005113, "dur":7948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159001013225, "dur":252, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159001013510, "dur":66, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159001013588, "dur":5876, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159001019626, "dur":162, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159001027443, "dur":155, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159001020044, "dur":7646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1747159001028000, "dur":13804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1747159001053713, "dur":128, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1747159001042023, "dur":11861, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/level1" }}
+,{ "pid":12345, "tid":5, "ts":1747159001054094, "dur":236410, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000794782, "dur":4855, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000799640, "dur":1660, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000801300, "dur":211, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000801511, "dur":9751, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000811262, "dur":333, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1747159000811596, "dur":75, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000833912, "dur":7101, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":6, "ts":1747159000841158, "dur":253, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1747159000841413, "dur":135, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000846386, "dur":7361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1747159000853938, "dur":470, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000853925, "dur":487, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000854415, "dur":119, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000855777, "dur":7315, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000863471, "dur":181, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000864023, "dur":13672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000877854, "dur":377, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000878291, "dur":6758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000885208, "dur":385, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000885654, "dur":8790, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000894614, "dur":1188, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000895877, "dur":7110, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000903162, "dur":421, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000912444, "dur":54, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000903644, "dur":8923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000913158, "dur":1045, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000927869, "dur":2185, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000914260, "dur":16287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000930797, "dur":603, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000942622, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000932106, "dur":10640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000942948, "dur":199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000943275, "dur":8549, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000951966, "dur":669, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000952707, "dur":9435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000962324, "dur":382, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000962825, "dur":8962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000971952, "dur":1103, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000973133, "dur":10269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000983571, "dur":584, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000984220, "dur":8077, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159000992544, "dur":141, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159000992743, "dur":9676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159001002653, "dur":567, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159001003284, "dur":5806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159001009272, "dur":207, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159001009533, "dur":8270, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159001017977, "dur":192, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159001018237, "dur":12996, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1747159001031532, "dur":3789, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1747159001035369, "dur":16311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":6, "ts":1747159001051847, "dur":6323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":6, "ts":1747159001058289, "dur":232179, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000794836, "dur":4809, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000799648, "dur":1793, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000801442, "dur":9823, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000811275, "dur":522, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1747159000811266, "dur":532, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1747159000811800, "dur":73, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000845963, "dur":2639, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000848648, "dur":7155, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1747159000855920, "dur":291, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000855915, "dur":299, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000856216, "dur":81, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000858135, "dur":23130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000881439, "dur":393, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000889817, "dur":50, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000881897, "dur":8007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000890309, "dur":305, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000890675, "dur":9380, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000900216, "dur":442, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000912448, "dur":131, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000900941, "dur":11672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000912912, "dur":273, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000913240, "dur":7298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Collections.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000920716, "dur":277, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000928771, "dur":1322, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000921100, "dur":9105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.InternalAPIEngineBridge.001.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000930402, "dur":174, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000930631, "dur":9698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.2D.IK.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000940537, "dur":925, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000941544, "dur":5921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000947661, "dur":199, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000947917, "dur":8240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000956401, "dur":808, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000957280, "dur":11400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000968997, "dur":334, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000969399, "dur":8867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000978436, "dur":123, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000978562, "dur":599, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000987629, "dur":228, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000979216, "dur":8682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000988101, "dur":431, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000988601, "dur":9250, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159000998050, "dur":371, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159000998547, "dur":7727, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159001006453, "dur":187, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159001006689, "dur":9542, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159001016415, "dur":184, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159001016653, "dur":8648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1747159001025682, "dur":4230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":7, "ts":1747159001030437, "dur":4369, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1747159001034870, "dur":7858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1747159001042920, "dur":12728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1747159001056837, "dur":233638, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000794882, "dur":4770, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000799653, "dur":1885, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000801539, "dur":9719, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000811262, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1747159000811567, "dur":144, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000834883, "dur":87, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000835017, "dur":5750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":8, "ts":1747159000840939, "dur":325, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1747159000841266, "dur":198, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000841514, "dur":15687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":8, "ts":1747159000857327, "dur":78, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1747159000857325, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1747159000857410, "dur":1023, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000864917, "dur":93, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000858483, "dur":6568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer.exe" }}
+,{ "pid":12345, "tid":8, "ts":1747159000865256, "dur":658, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000865946, "dur":279, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000866241, "dur":14165, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000880585, "dur":941, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000881599, "dur":11173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000893088, "dur":841, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000894033, "dur":7726, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000902032, "dur":282, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000911533, "dur":193, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000902369, "dur":9410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000914862, "dur":443, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000915332, "dur":61, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000927196, "dur":287, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000915403, "dur":12119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000927768, "dur":147, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000927956, "dur":1710, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000940669, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000929689, "dur":11074, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000940973, "dur":1360, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000942365, "dur":293, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000942671, "dur":10598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000953464, "dur":125, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000963200, "dur":63, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000953639, "dur":9689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000963595, "dur":219, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000972378, "dur":77, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000963882, "dur":8613, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000972708, "dur":343, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000973116, "dur":6340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000979660, "dur":672, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000980470, "dur":8574, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000989234, "dur":246, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000989538, "dur":8269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159000998082, "dur":332, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159001008421, "dur":95, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159000998545, "dur":10090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159001008934, "dur":565, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159001009630, "dur":8676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159001018470, "dur":121, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159001018632, "dur":5860, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/Last Hope - 2D Platformer_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159001024646, "dur":1505, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.62f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159001024640, "dur":1516, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/enyae/UnityBuilds/Last Hope/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159001026159, "dur":138, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1747159001026346, "dur":69588, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/enyae/UnityBuilds/Last Hope/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":8, "ts":1747159001096089, "dur":194427, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1747159001307643, "dur":5095, "ph":"X", "name": "ProfilerWriteOutput" }
 ,
