@@ -110,7 +110,7 @@ Link GitHub: https://github.com/EnyaEithene/Guiding-Light-Win-
 
 ---
 ## Probleme / Limitări
-- HealthUI-ul este inițial roșu până la lovirea jucătorului de către un inamic sau atingerea unei capcane de tip spin
+- Tile-urile de platforme nu sunt realizate dintr-un capăt într-altul; trebuie refăcute
 - Omorârea inamicilor nu fac să apară mere nici când sunt setate ca având șanse de apariție 100%
 - Sărirea de pe pereți este „lipicioasă”
 - Atârnarea de pereți are animația instabilă
