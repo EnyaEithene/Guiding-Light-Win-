@@ -125,7 +125,7 @@ Link GitHub: https://github.com/EnyaEithene/Guiding-Light-Win-
 ---
 ## Surse
 - **Cod**: [„FULL Platformer Tutorial Series - Unity 2D” de Game Code Library](https://www.youtube.com/playlist?list=PLaaFfzxy_80EWnrTHyUkkIy6mJrhwGYN0)
-- **Artă**: Unity Assets/ Personalizat, [EnyaEithene](https://github.com/EnyaEithene) folosind aplicația [LibreSprite](https://libresprite.github.io/#!/)
+- **Artă**: Unity Assets/ Personalizat, [EnyaEithene](https://github.com/EnyaEithene) folosind aplicația [LibreSprite](https://libresprite.github.io/#!/), [Pony Town](https://pony.town/character) pentru jucător
 - **Unelte**: Unity, C#, Cinemachine
 
 ---
